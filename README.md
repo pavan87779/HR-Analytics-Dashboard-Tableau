@@ -55,7 +55,8 @@ This project is a dynamic and interactive **HR Analytics Dashboard** developed u
 ---
 
 ## 📌 Screenshots
-![HR Dashboard Screenshot]("D:\Data Analyst\HR Data Dashboard-Tableau\HR_Analytics_Dashboard.png")
+![HR Dashboard Screenshot](./Assets/HR_Analytics_Dashboard.png)
+
 
 ---
 
