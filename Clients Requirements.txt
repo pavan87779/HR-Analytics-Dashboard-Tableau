@@ -1,0 +1,13 @@
+Client Requirements
+The client (HR department of a mid-size organization) wanted a centralized visual dashboard to:
+
+1.Track overall employee headcount, attrition count, and attrition rate.
+
+2.Monitor active employees by department, age, gender, and education field.
+
+3.Identify which departments, age groups, or job roles are facing the highest attrition.
+
+4.Analyze job satisfaction ratings across job roles to prioritize employee engagement efforts.
+
+5.Understand gender-wise attrition trends across age bands for targeted retention programs.
+
